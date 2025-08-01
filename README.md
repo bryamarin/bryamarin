@@ -71,14 +71,14 @@
 <div align="center">
     <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Ruben7ctrl&show_icons=true&theme=tokyonight"
+        srcset="https://github-readme-stats.vercel.app/api?username=bryamarin&show_icons=true&theme=tokyonight"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Ruben7ctrl&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=bryamarin&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ruben7ctrl&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bryamarin&show_icons=true" />
     </picture>
 </div>
  
@@ -86,20 +86,20 @@
  
 <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruben7ctrl&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryamarin&theme=github_dark)
   
 </div>
  
  
 ### 📈 Activity Graph
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruben7ctrl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact with me:
 
 <div align="center">
 <a href="www.linkedin.com/in/bryam-marin-developer-marketing" target="_blank" rel="noopener noreferrer">
-  <img src="linkedin-light.svg" alt="LinkedIn" 
+  <img src="linkedin-dark.svg" alt="LinkedIn" 
        style="width:32px; height:32px; filter: brightness(0) invert(1);" />
 </a>
 &nbsp;&nbsp;
