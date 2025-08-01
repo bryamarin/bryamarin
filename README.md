@@ -1,16 +1,7 @@
-<div align="center">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlign=99&descAlignY=68" 
-    alt="Header image"
-/>
-</div>
 
-![Header](github-header-image%20(15).png)
+![Header](https://github.com/bryamarin/bryamarin/blob/main/LINKEDING%20BRYAM%201.png?raw=true)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Full+Stack+Developer+;%F0%9F%9A%80+Passionate+about+coding;%F0%9F%A7%A0+Software+Engineer+in+evolution;%F0%9F%94%8D+Naturally+curious;%F0%9F%A7%B0+Frontend+%2B+Backend+%3D+Fullstack;%F0%9F%8E%AF+Always+looking+for+new+challenges;%F0%9F%8E%A8+Where+logic+meets+creativity;%F0%9F%8C%90+Clean+code+and+great+design;%F0%9F%94%8D+Developer+by+choice" alt="Typing SVG" /></a>
-</p>
+
 
 - 👨‍💻 Full Stack Developer always learning and building cool stuff — especially in **web development** and **AI**
 - 🤖 Currently diving deeper into **Artificial Intelligence** and integrating it into interactive web experiences.
@@ -107,12 +98,12 @@
 ### Contact with me:
 
 <div align="center">
-<a href="https://www.linkedin.com/in/rub%C3%A9n-cabello-582ba2bb" target="_blank" rel="noopener noreferrer">
-  <img src="linkedin-dark.svg" alt="LinkedIn" 
+<a href="www.linkedin.com/in/bryam-marin-developer-marketing" target="_blank" rel="noopener noreferrer">
+  <img src="linkedin-light.svg" alt="LinkedIn" 
        style="width:32px; height:32px; filter: brightness(0) invert(1);" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:rubencabellomiguel@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:marketing.marin18@gmail.com" target="_blank" rel="noopener noreferrer">
   <img alt="Gmail" width="32" height="32" src="image (2).png" />
 
 </a>
