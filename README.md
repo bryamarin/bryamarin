@@ -9,6 +9,10 @@
 - ⚡ Fun fact: I love to code, play sports, and watch great series — in that order (usually).
 - 🌱 Always learning and building new things — open to feedback, collaboration, or just a great conversation about tech and ideas!
 
+**Redes:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryam-marin-developer-marketing) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marketing.marin18@gmail.com) 
+---
+
 
 ## 🛠 &nbsp;Tech Stack
 
