@@ -13,61 +13,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryam-marin-developer-marketing) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marketing.marin18@gmail.com) 
 ---
 
+## 🚀 Habilidades Técnicas
 
-## 🛠 &nbsp;Tech Stack
-
-
-#### 🧠 Languages & Technologies I Use
-<table align="center">
-  <tr>
-        <td><img align="left" alt="HTML5" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="CSS3" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="JavaScript" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Python" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Markdown" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:15px;" /></td>
-  </tr>
-</table>
-
-<br clear="both" />
-
-#### ⚙️ Frameworks
-<table align="center">
-  <tr>
-        <td><img align="left" alt="React" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Flask" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Node.js" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:15px;" /></td>
-  </tr>
-</table>
-
-<br clear="both" />
-
-#### 📚 Libraries
-<table align="center">
-  <tr>
-        <td><img align="left" alt="Axios" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="SQLAlchemy" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="PostgreSQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Bootstrap" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:15px;" /></td>
-  </tr>
-</table>
-
-<br clear="both" />
-
-#### 🔧 Tools
-<table align="center">
-  <tr>
-        <td><img align="left" alt="Visual Studio Code" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Postman" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Git" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="GitHub" width="46px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Figma" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Terminal" width="46px" src="terminal-dark.svg" /></td>
-  </tr>
-</table>
-<br clear="both" />
-
-<br />
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
 
 ## 📊 Profile Statistics
@@ -93,7 +42,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryamarin&theme=github_dark)
   
 </div>
- 
+
+ ## 🏆 Trofeos de GitHub
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bryamarin&theme=radical)
+
+---
  
 ### 📈 Activity Graph
  
