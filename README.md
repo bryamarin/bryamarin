@@ -2,6 +2,7 @@
 ![Header](https://github.com/bryamarin/bryamarin/blob/main/LINKEDING%20BRYAM%201.png?raw=true)
 
 
+¡Hola y bienvenid@ a mi perfil de GitHub! Soy Full Stack Developer con experiencia tanto en frontend como en backend.
 
 - 👨‍💻 Full Stack Developer always learning and building cool stuff — especially in **web development** and **AI**
 - 🤖 Currently diving deeper into **Artificial Intelligence** and integrating it into interactive web experiences.
